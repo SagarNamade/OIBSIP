@@ -1,3 +1,3 @@
 # OIBSIP
 My projects
-fggf
+This is a landing page for Gym which a made for OASIS INFOBYTE
