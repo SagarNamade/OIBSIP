@@ -1,3 +1,3 @@
 # OIBSIP
 My projects
-This is a landing page for Gym which a made for OASIS INFOBYTE
+This is a landing page for a gym that I made for OASIS INFOBYTE.
